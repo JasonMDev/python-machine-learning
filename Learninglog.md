@@ -11,7 +11,7 @@
 - [x] **Discovering hidden structures with unsupervised learning**
  - [ ] Finding subgroups with clustering
  - [ ] Dimensionality reduction for data compression
-  - [x] *File: generateRandomNumbers.py*
+ 
 
 #### § 03: An introduction to the basic terminology and notations
 #### § 04: A roadmap for building machine learning systems
@@ -23,3 +23,19 @@
 - [x] **Installing Python packages**
 
 #### § 06: Summary
+
+### Ch 02: Training Machine Learning Algorithms for Classification
+#### § 01: Artificial neurons – a brief glimpse into the early history of machine learning
+#### § 02: Implementing a perceptron learning algorithm in Python
+- [x] **Training a perceptron model on the Iris dataset**
+ - [x] File: *perceptronLearning.py*
+
+#### § 03: Adaptive linear neurons and the convergence of learning
+- [x] **Minimizing cost functions with gradient descent**
+- [x] **Implementing an Adaptive Linear Neuron in Python**
+ - [x] File: *adaptiveLinearNeuron.py*
+- [x] **Large scale machine learning and stochastic gradient descent**
+ - [x] File: *adaptiveSGD.py*
+
+#### § 04: Summary
+ - [x] *File: generateRandomNumbers.py*
