@@ -38,22 +38,21 @@
 
 ---------------------
 ## Ch 01: Giving Computers the Ability to Learn from Data
-### § 01: Building intelligent machines to transform data into knowledge
-### § 02: The three different types of machine learning 
-#### § 02.01: Making predictions about the future with supervised learning [x] 
-- [x] Classification for predicting class labels
-- [x] Regression for predicting continuous outcomes
-Text.
-#### § 02.02: Solving interactive problems with reinforcement learning
-#### § 02.02: Discovering hidden structures with unsupervised learning
-- [ ] Finding subgroups with clustering
-- [ ] Dimensionality reduction for data compression
- - [x] *File: generateRandomNumbers.py*
-### § 03: An introduction to the basic terminology and notations
-### § 04: A roadmap for building machine learning systems
-#### § 04.01: Preprocessing – getting data into shape
-#### § 04.02: Training and selecting a predictive model
-#### § 04.03: Evaluating models and predicting unseen data instances
-### § 05: Using Python for machine learning
-#### § 05.01: Installing Python packages
-### § 06: Summary
+- [x] ### § 01: Building intelligent machines to transform data into knowledge
+- [x] ### § 02: The three different types of machine learning 
+ - [x] #### § 02.01: Making predictions about the future with supervised learning 
+  - [x] Classification for predicting class labels
+  - [x] Regression for predicting continuous outcomes
+ - [x] #### § 02.02: Solving interactive problems with reinforcement learning
+ - [x] #### § 02.02: Discovering hidden structures with unsupervised learning
+  - [ ] Finding subgroups with clustering
+  - [ ] Dimensionality reduction for data compression
+   - [x] *File: generateRandomNumbers.py*
+- [x] ### § 03: An introduction to the basic terminology and notations
+- [x] ### § 04: A roadmap for building machine learning systems
+ - [x] #### § 04.01: Preprocessing – getting data into shape
+ - [x] #### § 04.02: Training and selecting a predictive model
+ - [x] #### § 04.03: Evaluating models and predicting unseen data instances
+- [x] ### § 05: Using Python for machine learning
+ - [x] #### § 05.01: Installing Python packages
+- [x] ### § 06: Summary
