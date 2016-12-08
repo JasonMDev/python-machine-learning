@@ -1,25 +1,35 @@
-# python-machine-learning
-
-# Automate the Boring Stuff
-## Practical Programming for Total Beginners
-
-These are my notes from working through the book
-[*Automate the boring Stuff*](https://automatetheboringstuff.com/)
-by Al Sweigart and published in 2015.
-
-### Synopsis taken from the book.
-
-Everyone should learn to code, but not everyone needs to become a software engineer or computer scientist. Automate the Boring Stuff with Python is written for office workers, students, administrators, and anyone who uses a computer to learn how to code small, practical programs to automate tasks on their computer.
-
-- [x] Have a folder with thousands of files that need to be renamed?
-- [x] Need to look through thousands of rows in an Excel spreadsheet looking for ones to update?
-- [x] Have to pull text off of several web pages?
-- [x] Want to copy the data from hundreds of PDFs?
-- [x] Have any tedious computer task that you wish you had an intern for?
-
-Normally this would involve hours of mindless clicking and typing. But programming your computer to do it will save you time and effort.
+# Python Machine Learning
+*Learn how to build powerful Python machine learning algorithms to generate useful data insights with this data analysis tutorial*
+*ISBN 9781783555130 © Packt Publishing Limited. All Rights Reserved*
 
 These are my notes from working through the book
-[*Learning Predictive Analytics with Python*](https://www.packtpub.com/big-data-and-business-intelligence/learning-predictive-analytics-python)
-by [Ashish Kumar](https://in.linkedin.com/in/ashishk64)
-and published on Feb 2016.
+[*Python Machine Learning*](https://www.packtpub.com/big-data-and-business-intelligence/python-machine-learning)
+by [Sebastian Raschka](https://twitter.com/rasbt)
+and published in Sep 2015.
+
+## Synopsis taken from the book.
+
+
+### Features
+
+- [x] Leverage Python’s most powerful machine learning libraries for deep learning, data wrangling, and data visualization
+- [x] Learn effective strategies and best practices to improve and optimize machine learning systems and algorithms
+- [x] Ask – and answer – tough questions of your data with robust statistical models, built for a range of datasets
+
+### Learning
+
+- [x] Find out how different machine learning can be used to ask different data analysis questions
+- [x] Learn how to build neural networks using Python libraries and tools such as Keras and Theano
+- [x] Write clean and elegant Python code to optimize the strength of your machine learning algorithms
+- [x] Discover how to embed your machine learning model in a web application for increased accessibility
+- [x] Predict continuous target outcomes using regression analysis
+- [x] Uncover hidden patterns and structures in data with clustering
+- [x] Organize data using effective pre-processing techniques
+- [x] Learn sentiment analysis to delve deeper into textual and social media data
+
+### About
+
+Machine learning is transforming the way businesses operate. Being able to understand trends and patterns in complex data is critical to success; it is today one of the key strategies for unlocking growth in a challenging contemporary marketplace. Python can help you deliver key insights into your data – its unique capabilities as a language let you build sophisticated algorithms and statistical models that can reveal new perspectives and answer key questions that are vital for success.
+
+Python Machine Learning gives you access to the world of machine learning and demonstrates why Python is one of the world’s leading data science languages. If you want to ask better questions of data, or need to improve and extend the capabilities of your machine learning systems, this practical data science book is invaluable. Covering a wide range of powerful Python libraries, including scikit-learn, Theano, and Keras, and featuring guidance and tips on everything from sentiment analysis to neural networks, you’ll soon be able to answer some of the most important questions facing you and your organization.
+
