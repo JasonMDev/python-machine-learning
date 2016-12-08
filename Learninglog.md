@@ -45,10 +45,33 @@
 - [x] Regression for predicting continuous outcomes
 
 #### § 02.02: Solving interactive problems with reinforcement learning
-#### § 02.02: Discovering hidden structures with unsupervised learning
+#### § 02.03: Discovering hidden structures with unsupervised learning
 - [ ] Finding subgroups with clustering
 - [ ] Dimensionality reduction for data compression
  - [x] *File: generateRandomNumbers.py*
+
+### § 03: An introduction to the basic terminology and notations
+### § 04: A roadmap for building machine learning systems
+#### § 04.01: Preprocessing – getting data into shape
+#### § 04.02: Training and selecting a predictive model
+#### § 04.03: Evaluating models and predicting unseen data instances
+### § 05: Using Python for machine learning
+#### § 05.01: Installing Python packages
+### § 06: Summary
+
+---------------------
+## Ch 01: Giving Computers the Ability to Learn from Data
+### § 01: Building intelligent machines to transform data into knowledge
+### § 02: The three different types of machine learning 
+- [x] **Making predictions about the future with supervised learning** 
+ - [x] Classification for predicting class labels
+ - [x] Regression for predicting continuous outcomes
+
+- [x] Solving interactive problems with reinforcement learning
+- [x] Discovering hidden structures with unsupervised learning
+ - [ ] Finding subgroups with clustering
+ - [ ] Dimensionality reduction for data compression
+  - [x] *File: generateRandomNumbers.py*
 
 ### § 03: An introduction to the basic terminology and notations
 ### § 04: A roadmap for building machine learning systems
