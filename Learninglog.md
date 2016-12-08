@@ -43,11 +43,13 @@
 #### § 02.01: Making predictions about the future with supervised learning 
 - [x] Classification for predicting class labels
 - [x] Regression for predicting continuous outcomes
+
 #### § 02.02: Solving interactive problems with reinforcement learning
 #### § 02.02: Discovering hidden structures with unsupervised learning
 - [ ] Finding subgroups with clustering
 - [ ] Dimensionality reduction for data compression
  - [x] *File: generateRandomNumbers.py*
+
 ### § 03: An introduction to the basic terminology and notations
 ### § 04: A roadmap for building machine learning systems
 #### § 04.01: Preprocessing – getting data into shape
