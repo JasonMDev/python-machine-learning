@@ -1,10 +1,10 @@
-# Python Machine Learning
-*Learn how to build powerful Python machine learning algorithms to generate useful data insights with this data analysis tutorial*
-
 These are my notes from working through the book
 [*Python Machine Learning*](https://www.packtpub.com/big-data-and-business-intelligence/python-machine-learning)
 by [Sebastian Raschka](https://twitter.com/rasbt)
 and published in Sep 2015.
+
+# Python Machine Learning
+*Learn how to build powerful Python machine learning algorithms to generate useful data insights with this data analysis tutorial*
 
 ## Synopsis taken from the book.
 *ISBN 9781783555130 © Packt Publishing Limited. All Rights Reserved*
