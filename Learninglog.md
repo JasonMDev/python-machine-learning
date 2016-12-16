@@ -39,3 +39,17 @@
 
 #### § 04: Summary
  - [x] *File: generateRandomNumbers.py*
+
+------Update above with below format
+ ##### Format
+
+ ## Ch 01: Chapter Title
+##### § 01: Main Section
+- [x] Sub-section
+ - [x] *Sub-sub-section*
+ - [x] *Sub-sub-section*
+
+##### § 02: The three different types of machine learning 
+- [x] Sub-section
+ - [x] *Sub-sub-section*
+ - [x] *Sub-sub-section*
